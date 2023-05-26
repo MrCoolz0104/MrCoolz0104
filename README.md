@@ -14,6 +14,8 @@
 
 
 
+
+
 ### Connect to me:
 
 • [Instagram]
@@ -21,6 +23,8 @@
 • [Dc]
 
 • [Snapchat]
+
+
 
 
 
