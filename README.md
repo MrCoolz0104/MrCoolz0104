@@ -1,6 +1,6 @@
 # Its Akil
 
-## Introduction:
+### Introduction:
 
 • He/Him
 
@@ -12,7 +12,9 @@
 
 • A student in class 12th (science)
 
-##connect to me:
+
+
+### Connect to me:
 
 • [Instagram]
 
@@ -20,7 +22,9 @@
 
 • [Snapchat]
 
-## Why am I using github:
+
+
+### Why am I using github:
 
 • This platform helps in code hosting and version control and helps to learn and contribute projects together with professionals and learners
 
