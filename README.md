@@ -20,13 +20,10 @@
 • A student in class 12th (science)
 
 
-• busy.
+• Probably busy.
 
 
 #
-
-
-
 
 
 ### Connect with me 📲:
