@@ -62,6 +62,17 @@
 
 #
 
+### Software for python ❓:
+
+• Visual studio code (py version 3.11) [supports other programming languages too]
+
+
+• Replit (Read edit print loop) (online py software easy to use)
+
+
+
+#
+
 
 
 ### Why am I using github ❓:
