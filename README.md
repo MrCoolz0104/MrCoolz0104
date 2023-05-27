@@ -45,7 +45,7 @@
 ### Upcoming projects 💻:
 
 
-#### Currently projects are on break until I complete class 12th.
+#### Currently projects are on break.
 
 
 • Basic level projects.
