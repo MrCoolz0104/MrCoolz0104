@@ -17,13 +17,10 @@
 • I like to code "py" things.
 
 
-• I enjoy Manga(s), Ln(s)
-
-
 • A student in class 12th (science)
 
 
-• Busy.
+• busy.
 
 
 #
