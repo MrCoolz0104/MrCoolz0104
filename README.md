@@ -17,7 +17,14 @@
 • I like to code "py" things.
 
 
+• I enjoy Manga(s), Ln(s)
+
+
 • A student in class 12th (science)
+
+
+• Enough intro :)
+
 
 #
 
@@ -26,6 +33,8 @@
 
 
 ### Connect with me:
+
+#### Feel free to ask anything on -
 
 
 • [Instagram] - mr_coolz_0104
@@ -65,18 +74,3 @@
 
 • This platform helps in code hosting and version control and helps to learn and contribute projects together with professionals and learners
 
-
-<!--
-**MrCoolz0104/MrCoolz0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
