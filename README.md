@@ -66,6 +66,8 @@
 
 • Visual studio code (py version 3.11) [supports other programming languages too]
 
+• Pycharm (for begginers)
+
 
 • Replit (Read edit print loop) (online py software easy to use)
 
@@ -79,6 +81,5 @@
 
 
 • This platform helps in code hosting and version control and helps to learn and contribute projects together with professionals and learners.
-
 
 • I do these stuff for fun 🙂
