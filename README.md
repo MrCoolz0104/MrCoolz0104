@@ -1,8 +1,8 @@
-# Its Akil
+# 📎 Hi there, Its Akil 😎
 
 
 
-### Introduction:
+### Introduction📍:
 
 
 • He/Him
@@ -23,7 +23,7 @@
 • A student in class 12th (science)
 
 
-• Enough intro :)
+• Busy.
 
 
 #
@@ -32,7 +32,7 @@
 
 
 
-### Connect with me:
+### Connect with me 📲:
 
 #### Feel free to ask anything on -
 
@@ -48,7 +48,7 @@
 
 
 
-### Upcoming projects:
+### Upcoming projects 💻:
 
 
 #### Currently projects are on break until I complete class 12th.
@@ -70,8 +70,10 @@
 
 
 
-### Why am I using github:
+### Why am I using github ❓:
 
 
-• This platform helps in code hosting and version control and helps to learn and contribute projects together with professionals and learners
+• This platform helps in code hosting and version control and helps to learn and contribute projects together with professionals and learners.
 
+
+• I enjoy this stuff as fun 🙂
