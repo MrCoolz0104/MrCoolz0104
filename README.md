@@ -1,14 +1,21 @@
 # Its Akil
 
+
+
 ### Introduction:
+
 
 • He/Him
 
+
 • 17 yrs old.
+
 
 • Python learner/freak.
 
+
 • I like to code "py" things.
+
 
 • A student in class 12th (science)
 
@@ -16,18 +23,27 @@
 
 
 
+
+
 ### Connect with me:
 
-• [Instagram] - https://instagram.com/mr_coolz_0104?igshid=ZDc4ODBmNjlmNQ==
+
+• [Instagram] - mr_coolz_0104
 
 
 • [Snapchat] - akil_mujawar146
 
 
+
+
+
+
+
 ### Upcoming projects:
 
 
-#### • Projects will release after completing class 12th.
+#### Currently projects are on break until I complete class 12th.
+
 
 • Basic level projects.
 
@@ -40,7 +56,12 @@
 
 • Will update later on..
 
+
+
+
+
 ### Why am I using github:
+
 
 • This platform helps in code hosting and version control and helps to learn and contribute projects together with professionals and learners
 
