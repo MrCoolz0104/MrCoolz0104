@@ -16,17 +16,29 @@
 
 
 
-### Connect to me:
+### Connect with me:
 
 • [Instagram] - https://instagram.com/mr_coolz_0104?igshid=ZDc4ODBmNjlmNQ==
 
-• [Dc]
 
-• [Snapchat]
-
+• [Snapchat] - akil_mujawar146
 
 
+### Upcoming projects:
 
+
+#### • Projects will release after completing class 12th.
+
+• Basic level projects.
+
+
+• Ai projects.
+
+
+• Stabilized personal assistant.
+
+
+• Will update later on..
 
 ### Why am I using github:
 
