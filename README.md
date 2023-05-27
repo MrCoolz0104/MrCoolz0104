@@ -18,8 +18,8 @@
 
 ### Connect to me:
 
-• [Instagram] | 
-https://instagram.com/mr_coolz_0104?igshid=ZDc4ODBmNjlmNQ==
+• [Instagram] - https://instagram.com/mr_coolz_0104?igshid=ZDc4ODBmNjlmNQ==
+
 • [Dc]
 
 • [Snapchat]
