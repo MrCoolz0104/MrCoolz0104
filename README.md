@@ -1,4 +1,4 @@
-# 📎 Hi there, Its Akil 😎
+# Hi there, Its Akil 😎
 
 
 
