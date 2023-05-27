@@ -70,4 +70,4 @@
 • This platform helps in code hosting and version control and helps to learn and contribute projects together with professionals and learners.
 
 
-• I enjoy this stuff as fun 🙂
+• I do these stuff for fun 🙂
