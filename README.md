@@ -66,7 +66,7 @@
 
 • Visual studio code (py version 3.11) [supports other programming languages too]
 
-• Pycharm (for begginers)
+• Pycharm (for beginners)
 
 
 • Replit (Read edit print loop) (online py software easy to use)
