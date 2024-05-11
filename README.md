@@ -14,10 +14,7 @@
 • Business & Entrepreneurship offline & State wise Trader.
 
 
-• Python, Java, C++, Core js, Software Dev jr, white + Red hat hacker.
-
-
-• Probably busy.
+• Portfolio.
 
 
 #
