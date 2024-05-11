@@ -1,4 +1,4 @@
-# Hi there, Its Akil 😎
+# As salamu alaykum, Its Mohammad Akil Mujawar.
 
 
 
@@ -8,16 +8,13 @@
 • He/Him
 
 
-• 17 yrs old.
+• 20 yrs old.
 
 
-• Python learner/freak.
+• Business & Entrepreneurship offline & State wise Trader.
 
 
-• I like to code "py" things.
-
-
-• A student in class 12th (science)
+• Python, Java, C++, Core js, Software Dev jr, white + Red hat hacker.
 
 
 • Probably busy.
@@ -31,10 +28,10 @@
 ####  Feel free to ask anything on -
 
 
-• [Instagram] - mr_coolz_0104
+• [Instagram] - md_.akil_
 
 
-• [Snapchat] - akil_mujawar146
+• [Whatsapp] - 930992xxxx
 
 
 #
@@ -45,33 +42,22 @@
 ### Upcoming projects 💻:
 
 
-#### Currently projects are on break.
+#### Currently projects are active.
 
 
-• Basic level projects.
+• Advanced distributer.
 
 
 • Ai projects.
 
 
-• Stabilized personal assistant.
+• Software Development tools.
 
 
 • Will update later on..
 
 
 #
-
-### Software for python ❓:
-
-• Visual studio code (py version 3.11) [supports other programming languages too]
-
-• Pycharm (for beginners)
-
-
-• Replit (Read edit print loop) (online py software easy to use)
-
-
 
 #
 
