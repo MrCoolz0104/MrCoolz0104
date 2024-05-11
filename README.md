@@ -14,6 +14,9 @@
 • Business & Entrepreneurship offline & State wise Trader.
 
 
+• 3 years of experience.
+
+
 • Portfolio.
 
 
