@@ -23,9 +23,9 @@
 #
 
 
-### Connect with me 📲:
+### Connect with me :
 
-####  Feel free to ask anything on -
+####  Ask me anything on -
 
 
 • [Instagram] - md_.akil_
