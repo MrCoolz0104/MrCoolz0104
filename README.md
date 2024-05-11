@@ -25,8 +25,6 @@
 
 ### Connect with me :
 
-####  Ask me anything on -
-
 
 • [Instagram] - md_.akil_
 
